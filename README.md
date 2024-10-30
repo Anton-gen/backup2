@@ -22,4 +22,5 @@
 ![1](4.jpg)
 
 Добавляем в cron строку sudo nano /var/spool/cron/crontabs/vm2
+
 0 0 * * * /home/night/backup.sh
